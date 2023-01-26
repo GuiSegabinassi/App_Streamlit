@@ -1,0 +1,1 @@
+Aplicativo feito com python e utilizando a biblioteca streamlit, Segabinassi_acoes permite que o usuario busque por qualquer acao negociada na Ibovespa e possa vizual os preços de abertura e fechamento e por fim ter um grafico mostrando os dados dados desde 2017 até o presente momento 
